@@ -6,5 +6,5 @@ Constraints: The formation of the team (4-3-3) is fixed and the allocation of bu
 
 Input: Budget
 
-Output: Best team possible for a given budget with (4-3-3) formation. 
+Output: Best team possible for a given budget with 4-3-3 formation. 
 The results of the team win % is within 1-2% range when compared to their simulation on FIFA'15 game. 
