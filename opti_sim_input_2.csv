@@ -1,0 +1,181 @@
+team,asst,gf,ga,win,d
+arsenal,33,64,32,20,11
+aston villa,20,38,53,9,9
+burnley,8,20,59,5,9
+chelsea,46,76,31,28,4
+crystal palace,8,27,59,7,9
+everton,26,50,39,17,7
+hull city,17,30,52,8,9
+leciester city,13,30,54,12,7
+liverpool,29,53,39,15,13
+Man city,35,66,29,23,9
+united,25,63,30,21,9
+newcastle,25,49,42,17,7
+qpr,22,34,53,11,7
+southhampton,20,42,43,18,8
+SPURS,23,47,40,16,10
+stoke,19,41,40,12,16
+sunderland,22,40,44,12,13
+swansea,17,34,57,7,11
+west brom,22,42,42,13,11
+west ham,28,41,49,13,13
+arsenal,36,55,23,17,14
+aston villa,17,34,45,9,13
+burnley,20,36,61,6,13
+chelsea,36,74,28,24,9
+crystal palace,20,29,57,5,13
+everton,20,44,37,17,8
+hull city,18,40,52,11,10
+leciester city,20,41,63,13,7
+liverpool,27,57,44,17,12
+Man city,35,70,27,22,8
+united,31,66,28,25,8
+newcastle,15,41,58,6,17
+qpr,19,40,50,8,14
+southhampton,27,42,56,6,19
+SPURS,26,55,36,20,10
+stoke,28,49,41,14,17
+sunderland,19,41,52,11,13
+swansea,19,38,54,8,16
+west brom,18,39,41,12,13
+west ham,18,31,59,8,8
+arsenal,25,56,35,19,9
+aston villa,22,33,49,8,14
+burnley,19,29,63,5,11
+chelsea,43,72,15,29,6
+crystal palace,20,37,61,6,11
+everton,26,49,25,19,13
+hull city,20,35,56,9,11
+leciester city,17,33,58,8,12
+liverpool,25,54,28,17,11
+Man city,42,69,21,26,9
+united,23,50,37,17,10
+newcastle,16,32,41,12,11
+qpr,19,45,51,9,17
+southhampton,14,31,48,11,8
+SPURS,31,51,38,21,5
+stoke,21,47,38,16,13
+sunderland,19,30,46,12,7
+swansea,17,35,54,10,10
+west brom,24,39,56,9,8
+west ham,23,40,47,12,14
+arsenal_1,41,60,48,16,13
+arsenal_1,31,61,44,18,14
+arsenal_1,29,71,24,26,9
+aston villa_1,32,54,36,18,14
+aston villa_1,34,58,37,23,9
+aston villa_1,22,68,24,26,8
+burnley_1,17,29,66,5,10
+burnley_1,15,35,61,7,8
+burnley_1,15,33,66,7,9
+chelsea_1,35,64,33,21,10
+chelsea_1,32,63,37,21,9
+chelsea_1,40,71,24,26,9
+crystal palace_1,23,46,38,15,14
+crystal palace_1,27,50,43,14,15
+crystal palace_1,22,47,42,12,15
+everton_1,19,48,51,9,15
+everton_1,19,40,46,11,12
+everton_1,19,45,50,13,10
+hull city_1,19,36,46,10,11
+hull city_1,23,43,58,10,11
+hull city_1,17,37,52,10,12
+leciester city_1,14,34,53,7,14
+leciester city_1,24,48,53,14,8
+leciester city_1,24,41,51,11,10
+liverpool_1,24,44,38,12,15
+liverpool_1,23,46,49,14,10
+liverpool_1,32,51,48,14,9
+Man city_1,32,67,32,22,12
+Man city_1,39,71,31,22,7
+Man city_1,31,68,24,26,8
+newcastle_1,27,55,43,18,14
+newcastle_1,25,47,48,13,12
+newcastle_1,29,51,43,18,9
+qpr_1,20,42,52,8,16
+qpr_1,18,41,42,13,12
+qpr_1,18,35,48,11,7
+southhampton_1,21,36,58,6,12
+southhampton_1,23,40,49,7,18
+southhampton_1,27,54,55,15,9
+SPURS_1,24,49,47,13,17
+SPURS_1,22,41,43,12,13
+SPURS_1,24,45,43,13,12
+stoke_1,29,53,47,14,16
+stoke_1,24,45,49,12,11
+stoke_1,25,50,48,15,7
+sunderland_1,24,42,48,12,11
+sunderland_1,22,41,46,13,12
+sunderland_1,17,40,51,13,11
+swansea_1,26,44,52,9,14
+swansea_1,15,35,59,7,10
+swansea_1,17,33,68,4,12
+united_1,23,53,37,18,9
+united_1,20,45,33,16,13
+united_1,22,48,34,17,12
+west brom_1,23,47,63,8,13
+west brom_1,22,43,55,13,6
+west brom_1,16,35,51,11,5
+west ham_1,18,36,51,7,14
+west ham_1,22,38,48,10,10
+west ham_1,15,41,59,8,11
+arsenal_2,22,47,33,17,11
+arsenal_2,20,52,56,12,11
+arsenal_2,17,41,37,13,17
+aston villa_2,22,47,44,15,10
+aston villa_2,34,59,45,18,13
+aston villa_2,18,45,41,10,16
+burnley_2,21,42,59,9,11
+burnley_2,22,39,64,8,12
+burnley_2,18,37,60,8,7
+chelsea_2,20,48,34,18,9
+chelsea_2,26,50,41,14,15
+chelsea_2,23,52,37,20,6
+crystal palace_2,27,50,36,16,15
+crystal palace_2,26,44,45,12,11
+crystal palace_2,12,49,37,11,15
+everton_2,27,47,43,16,10
+everton_2,23,48,45,13,16
+everton_2,21,45,47,12,13
+hull city_2,20,36,55,6,14
+hull city_2,29,46,45,13,15
+hull city_2,23,38,52,11,8
+leciester city_2,21,47,56,9,15
+leciester city_2,22,46,49,13,12
+leciester city_2,23,38,56,10,8
+liverpool_2,23,41,46,12,12
+liverpool_2,22,41,45,11,12
+liverpool_2,22,46,52,9,13
+Man city_2,25,58,35,20,12
+Man city_2,38,69,37,19,15
+Man city_2,29,62,37,20,11
+newcastle_2,27,55,39,18,13
+newcastle_2,18,53,37,17,13
+newcastle_2,23,50,30,20,14
+qpr_2,15,32,55,7,15
+qpr_2,16,48,41,13,10
+qpr_2,25,45,39,14,14
+southhampton_2,21,39,49,11,9
+southhampton_2,23,47,52,12,12
+southhampton_2,22,40,49,11,11
+SPURS_2,24,52,28,22,11
+SPURS_2,20,48,39,13,16
+SPURS_2,33,59,30,26,5
+stoke_2,25,43,38,15,10
+stoke_2,26,42,45,12,13
+stoke_2,21,37,44,12,11
+sunderland_2,15,37,57,9,6
+sunderland_2,23,44,58,7,12
+sunderland_2,18,37,54,8,14
+swansea_2,18,34,50,9,13
+swansea_2,19,37,47,11,10
+swansea_2,17,40,49,11,10
+united_2,28,56,37,17,13
+united_2,33,63,37,22,9
+united_2,39,72,33,24,8
+west brom_2,15,35,53,5,17
+west brom_2,19,36,62,6,12
+west brom_2,15,35,60,8,12
+west ham_2,21,40,49,7,18
+west ham_2,23,40,52,10,9
+west ham_2,20,42,56,9,11
